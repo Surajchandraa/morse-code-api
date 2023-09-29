@@ -7,4 +7,6 @@ using this api you can convert morsecode data into text data
 - run command "npm i" to install all dependencies.
 
 ## how to run this:
-- open terminal in project directory and run node 
+- open terminal in project directory and run node script.js file.
+-  than open your web browser and open url [http://localhost:5000].
+  
