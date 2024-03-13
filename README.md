@@ -4,7 +4,10 @@ morse code encode or decode can be done using this api.
 ## installation:
 - clone this repository `git clone https://github.com/Surajchandraa/morse-code-api.git`
 - install dependencies `npm install`
-  
+
+## Features:
+- convert morse code into text.
+- convert text into morse code.
 
 ## how to run this:
 - open terminal in project directory and run node script.js file.
