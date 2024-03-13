@@ -1,22 +1,27 @@
 # morse_code-to-text-api
-using this api you can convert morsecode data into text data
+morse code encode or decode can be done using this api.
 
 ## installation:
-- this is a node js and express js application so nodejs and npm should be installed in your system.
-- clone this repository in your localdirectory.
-- run command "npm i" to install all dependencies.
+- clone this repository `git clone https://github.com/Surajchandraa/morse-code-api.git`
+- install depdencies `npm install`
+  
 
 ## how to run this:
 - open terminal in project directory and run node script.js file.
--  than open your web browser and open url [http://localhost:5000/api/text-to-morse?morsedata=-... -.-.].
--  press enter.
+- Api will live at http://localhost:5000/text-to-morse?textdata=hi this is suraj 
 
-## usage:
-- give morse data in the url field "?morsedata=..-."
-- after clicking enter you will see the text in your screen which is converted from morsedata.
 
-## note: 
-- morsedata characters are combination of "-" and "." if you will write a character than you have to give space after that. and for the space between two latters you have to use "/".
+## routes:
+- ***text-to-morse**
+  `http://localhost:5000/text-to-morse?textdata=hi how are u`
+  this is to converting text into morse code.
+
+- ***morse-to-text**
+  `http://localhost:5000/morse-to-text?morsedata=-..`
+  this is to converting morse data into text.
+
+## contribution:
+feel free to contribute.
 
 
   
