@@ -1,13 +1,13 @@
 {
   "name": "morsecode_to_text",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project provide you api endpoints to encode or decode morse code.",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["morse code","morse to text","text to morse"],
+  "author": "Suraj chandra",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
