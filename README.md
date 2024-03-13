@@ -3,7 +3,7 @@ morse code encode or decode can be done using this api.
 
 ## installation:
 - clone this repository `git clone https://github.com/Surajchandraa/morse-code-api.git`
-- install depdencies `npm install`
+- install dependencies `npm install`
   
 
 ## how to run this:
